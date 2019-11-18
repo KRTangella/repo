@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E89B-F112
+
+ Directory of C:\Users\krtan\Desktop\MyProject
+
+18/11/2019  15:11    <DIR>          .
+18/11/2019  15:11    <DIR>          ..
+18/11/2019  13:04               690 Hello.class
+18/11/2019  12:25               158 Hello.java
+18/11/2019  15:11                 0 Test.txt
+               3 File(s)            848 bytes
+               2 Dir(s)   9,789,378,560 bytes free
